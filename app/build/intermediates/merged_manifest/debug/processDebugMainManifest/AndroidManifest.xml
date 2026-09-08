@@ -13,6 +13,7 @@
         android:extractNativeLibs="false"
         android:label="CHONOKO DATA"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.chonoko.data.BuyDataActivity" />
         <activity
             android:name="com.chonoko.data.MainActivity"
             android:exported="true" >

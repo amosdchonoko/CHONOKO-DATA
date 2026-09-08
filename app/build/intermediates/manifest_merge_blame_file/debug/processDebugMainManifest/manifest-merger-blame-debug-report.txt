@@ -9,30 +9,33 @@
 9        android:targetSdkVersion="35" />
 10
 11    <application
-11-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-10:15
+11-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-11:15
 12        android:debuggable="true"
 13        android:extractNativeLibs="false"
 14        android:label="CHONOKO DATA"
 14-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:46-74
 15        android:theme="@style/AppTheme" >
 15-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:14-45
-16        <activity
-16-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:1-9:12
-17            android:name="com.chonoko.data.MainActivity"
-17-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:11-39
-18            android:exported="true" >
-18-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:40-63
-19            <intent-filter>
-19-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:1-8:17
-20                <action android:name="android.intent.action.MAIN" />
-20-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:1-53
-20-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:9-50
-21
-22                <category android:name="android.intent.category.LAUNCHER" />
-22-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:1-61
-22-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:11-58
-23            </intent-filter>
-24        </activity>
-25    </application>
-26
-27</manifest>
+16        <activity android:name="com.chonoko.data.BuyDataActivity" />
+16-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:1-45
+16-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:11-42
+17        <activity
+17-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:1-10:12
+18            android:name="com.chonoko.data.MainActivity"
+18-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:11-39
+19            android:exported="true" >
+19-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:40-63
+20            <intent-filter>
+20-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:1-9:17
+21                <action android:name="android.intent.action.MAIN" />
+21-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:1-53
+21-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:9-50
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:8:1-61
+23-->/workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:8:11-58
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-11:12
-INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-11:12
-INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-11:12
-INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-11:12
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-12:12
 	package
 		INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -13,30 +13,34 @@ INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:1-11:1
 	xmlns:android
 		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-10:15
-INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-10:15
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-11:15
+INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:1-11:15
 	android:extractNativeLibs
 		INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml
 	android:label
 		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:46-74
 	android:theme
 		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:3:14-45
+activity#com.chonoko.data.BuyDataActivity
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:1-45
+	android:name
+		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:11-42
 activity#com.chonoko.data.MainActivity
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:1-9:12
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:1-10:12
 	android:exported
-		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:40-63
+		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:40-63
 	android:name
-		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:4:11-39
+		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:11-39
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:5:1-8:17
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:1-9:17
 action#android.intent.action.MAIN
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:1-53
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:1-53
 	android:name
-		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:6:9-50
+		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:9-50
 category#android.intent.category.LAUNCHER
-ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:1-61
+ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:8:1-61
 	android:name
-		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:7:11-58
+		ADDED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml:8:11-58
 uses-sdk
 INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /workspaces/CHONOKO-DATA/app/src/main/AndroidManifest.xml

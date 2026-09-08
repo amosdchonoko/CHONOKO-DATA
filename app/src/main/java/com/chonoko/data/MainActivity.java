@@ -1,6 +1,7 @@
 package com.chonoko.data;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.graphics.Color;
 import android.view.Gravity;
@@ -34,6 +35,7 @@ public class MainActivity extends Activity {
             button.setTextSize(20);
             button.setGravity(Gravity.CENTER);
             button.setPadding(30, 25, 30, 25);
+            if (item.equals("BUY DATA")) button.setOnClickListener(v -> startActivity(new Intent(this, BuyDataActivity.class)));
             main.addView(button);
         }
         setContentView(main);
