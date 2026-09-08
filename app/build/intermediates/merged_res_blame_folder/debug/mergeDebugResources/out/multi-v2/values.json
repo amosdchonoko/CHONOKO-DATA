@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.chonoko.data.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspaces/CHONOKO-DATA/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "0",
+                        "startOffsets": "12",
+                        "endLines": "2",
+                        "endColumns": "8",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "143"
+                    }
+                }
+            ]
+        }
+    ]
+}

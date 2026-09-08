@@ -1,0 +1,7 @@
+com.chonoko.data.app-pngs-0 /workspaces/CHONOKO-DATA/app/build/generated/res/pngs/debug
+com.chonoko.data.app-resValues-1 /workspaces/CHONOKO-DATA/app/build/generated/res/resValues/debug
+com.chonoko.data.app-packageDebugResources-2 /workspaces/CHONOKO-DATA/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.chonoko.data.app-packageDebugResources-3 /workspaces/CHONOKO-DATA/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.chonoko.data.app-debug-4 /workspaces/CHONOKO-DATA/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.chonoko.data.app-debug-5 /workspaces/CHONOKO-DATA/app/src/debug/res
+com.chonoko.data.app-main-6 /workspaces/CHONOKO-DATA/app/src/main/res
